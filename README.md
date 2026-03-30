@@ -1,3 +1,3 @@
-# khan-projects
+# khan-academy-projects
 My first projects HTML/CSS.
 My first programming mini projects actually.
